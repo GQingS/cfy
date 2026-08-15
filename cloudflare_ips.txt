@@ -1,5 +1,5 @@
-104.17.140.120:443#San Jose-7.10MB/s
-104.17.135.67:443#San Jose-7.34MB/s
-104.17.141.200:443#San Jose-7.39MB/s
-104.19.24.5:443#Los Angeles---
-104.16.237.211:443#Los Angeles---
+104.17.255.247:443#Los Angeles-5.76MB/s
+104.16.108.138:443#Los Angeles-5.67MB/s
+104.16.71.180:443#Los Angeles-5.71MB/s
+104.16.126.253:443#Los Angeles-5.55MB/s
+104.17.208.21:443#Los Angeles-4.16MB/s
