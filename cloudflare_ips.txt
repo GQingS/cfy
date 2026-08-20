@@ -1,5 +1,5 @@
-104.17.120.34:443#Los Angeles-5.80MB/s
-104.16.99.99:443#Los Angeles-4.95MB/s
-104.16.229.94:443#Los Angeles-6.04MB/s
-104.16.245.204:443#Los Angeles-5.06MB/s
-104.16.3.106:443#Los Angeles-4.95MB/s
+104.16.92.162:443#Los Angeles-5.95MB/s
+104.16.76.219:443#Los Angeles-6.21MB/s
+104.16.142.84:443#Los Angeles-5.76MB/s
+104.19.1.21:443#Los Angeles-6.00MB/s
+104.17.221.162:443#Los Angeles-4.81MB/s
